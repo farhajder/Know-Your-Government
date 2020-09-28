@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KnowYourGovernment</string>
+    <string name="SerializeGovementObject">SerGovObj</string>
+</resources>
